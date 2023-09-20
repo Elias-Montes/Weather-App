@@ -10,3 +10,13 @@ label {
 .card {
 	margin: 5px;
 }
+
+.domSearchHistory {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.icons {
+	height: 70px;
+	width: 70px;
+}
