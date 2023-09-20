@@ -7,8 +7,8 @@
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Image](#image)
+  * [Thanks](#special-thanks)
   
   ## Description:
 
@@ -31,3 +31,17 @@
   - Github: Elias-Montes
   - Email: eliasmontes911@gmail.com
   
+  ## Image
+
+  ![screenshot of app](./Images/Weather%20App%20img.png)
+
+  ## Special Thanks
+
+  Google\
+  Stack Overflow\
+  Stack Exchange\
+  Npm\
+  Dayjs\
+  openweathermap\
+  bootstrap\
+  jquery
