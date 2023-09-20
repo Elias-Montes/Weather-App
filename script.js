@@ -118,3 +118,13 @@ $('.btn').on('click', function (event) {
     });
   }
   
+  function initLoad() {
+    var cityHistory = JSON.parse(localStorage.getItem('city'));
+    if (cityHistory !== null) {
+      searchHistory = cityHistory;
+    }
+    findHistory();
+    todaysWeather();
+  }
+  
+  initLoad();
